@@ -1,0 +1,28 @@
+.navbar {
+    background-color: aquamarine;
+}
+
+body {
+    font-family: Caveat, cursive;
+}
+
+.tag {
+    font-weight: bold;
+    font-size: large;
+}
+
+.box:hover {
+    background-color: rgb(228, 222, 222);
+}
+
+.upfront {
+    height: 20vh;
+}
+
+.overflow-auto {
+    height: 480px;
+}
+
+.btnAdd {
+    border-color: rgb(8, 8, 8);
+}
